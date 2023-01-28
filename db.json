@@ -1,0 +1,1702 @@
+{
+    "mensData": [
+      {
+        "id": 1,
+        "name": "THOM SWEENEY",
+        "price": 299,
+        "description": "Cashmere scarf",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3c/P00748956.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3c/P00748956_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3c/P00748956_d2.jpg"
+      },
+      {
+        "id": 2,
+        "name": "AURALEE",
+        "price": 379,
+        "description": "Blouson denim jacket",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cb/P00690507.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cb/P00690507_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cb/P00690507_d2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "KENZO",
+        "price": 1599,
+        "description": "Shearling-trimmed leather jacket",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/22/P00675270.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/22/P00675270_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/22/P00675270_d2.jpg"
+      },
+      {
+        "id": 4,
+        "name": "OUR LEGACY",
+        "price": 239,
+        "description": "Box cotton shirt",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0a/P00706124.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0a/P00706124_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0a/P00706124_d2.jpg"
+      },
+      {
+        "id": 5,
+        "name": "MAISON MARGIELA",
+        "price": 439,
+        "description": "Wool drawstring pants",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/64/P00581441.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/64/P00581441_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/64/P00581441_d2.jpg"
+      },
+      {
+        "id": 6,
+        "name": "GUCCI",
+        "price": 315,
+        "description": "GG Supreme Canvas belt",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/53/P00737675.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/53/P00737675_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/53/P00737675_d2.jpg"
+      },
+      {
+        "id": 7,
+        "name": "NANUSHKA",
+        "price": 249,
+        "description": "Bruna bio-plastic sunglasses",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00690709.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00690709_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00690709_d2.jpg"
+      },
+      {
+        "id": 8,
+        "name": "MARNI",
+        "price": 645,
+        "description": "Striped mohair-blend sweater vest",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1b/P00701191.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1b/P00701191_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1b/P00701191_d2.jpg"
+      },
+      {
+        "id": 9,
+        "name": "NANUSHKA",
+        "price": 839,
+        "description": "Elias cotton canvas jacket",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8f/P00690770.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8f/P00690770_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8f/P00690770_d2.jpg"
+      },
+      {
+        "id": 10,
+        "name": "JIL SANDER",
+        "price": 328,
+        "description": "Logo cotton sweatshirt",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8d/P00683260.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8d/P00683260_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8d/P00683260_d2.jpg"
+      },
+      {
+        "id": 11,
+        "name": "FRESCOBOL CARIOCA",
+        "price": 225,
+        "description": "Oscar straight linen chinos",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/29/P00760454.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/29/P00760454_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/29/P00760454_d2.jpg"
+      },
+      {
+        "id": 12,
+        "name": "NEW BALANCE",
+        "price": 115,
+        "description": "550 leather sneakers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5d/P00767157.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5d/P00767157_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5d/P00767157_d2.jpg"
+      },
+      {
+        "id": 13,
+        "name": "VALENTINO GARAVANI",
+        "price": 275,
+        "description": "VLogo chain bracelet",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d0/P00734296.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d0/P00734296_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d0/P00734296_d2.jpg"
+      },
+      {
+        "id": 14,
+        "name": "NANUSHKA",
+        "price": 1098,
+        "description": "Joren wool and silk coat",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7e/P00690762.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7e/P00690762_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7e/P00690762_d2.jpg"
+      },
+      {
+        "id": 15,
+        "name": "KENZO",
+        "price": 585,
+        "description": "Printed denim jacket",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/76/P00675283.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/76/P00675283_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/76/P00675283_d2.jpg"
+      },
+      {
+        "id": 16,
+        "name": "NANUSHKA",
+        "price": 195,
+        "description": "Sazzo bio-plastic sunglasses",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5c/P00690714.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5c/P00690714_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5c/P00690714_d2.jpg"
+      },
+      {
+        "id": 17,
+        "name": "AMI PARIS",
+        "price": 325,
+        "description": "Logo drill tote bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0f/P00680843.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0f/P00680843_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0f/P00680843_d2.jpg"
+      },
+      {
+        "id": 18,
+        "name": "KENZO",
+        "price": 415,
+        "description": "Printed straight jeans",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ec/P00675281.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ec/P00675281_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ec/P00675281_d2.jpg"
+      },
+      {
+        "id": 19,
+        "name": "MARNI",
+        "price": 1029,
+        "description": "Intarsia mohair-blend cardigan",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/74/P00701166.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/74/P00701166_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/74/P00701166_d2.jpg"
+      },
+      {
+        "id": 20,
+        "name": "BALENCIAGA",
+        "price": 895,
+        "description": "Fairisle crewneck sweater",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/39/P00585057.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/39/P00585057_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/39/P00585057_d2.jpg"
+      },
+      {
+        "id": 21,
+        "name": "BALENCIAGA",
+        "price": 750,
+        "description": "x Adidas logo cotton sweatpants",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cd/P00767865.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cd/P00767865_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cd/P00767865_d2.jpg"
+      },
+      {
+        "id": 22,
+        "name": "GABRIELA HEARST",
+        "price": 2796,
+        "description": "Miles double-breasted cashmere blazer",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00734010.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00734010_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00734010_d2.jpg"
+      },
+      {
+        "id": 23,
+        "name": "COMME DES GARÇONS HOMME",
+        "price": 865,
+        "description": "Nylon bomber jacket",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/be/P00704812.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/be/P00704812_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/be/P00704812_d2.jpg"
+      },
+      {
+        "id": 24,
+        "name": "SAINT LAURENT",
+        "price": 379,
+        "description": "Cotton poplin shirt",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ca/P00766857.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ca/P00766857_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ca/P00766857_d2.jpg"
+      },
+      {
+        "id": 25,
+        "name": "ZEGNA",
+        "price": 635,
+        "description": "Wide-leg wool pants",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/15/P00674455.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/15/P00674455_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/15/P00674455_d2.jpg"
+      },
+      {
+        "id": 26,
+        "name": "BALENCIAGA",
+        "price": 1400,
+        "description": "Trash Bag leather tote bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/40/P00726307.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/40/P00726307_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/40/P00726307_d2.jpg"
+      },
+      {
+        "id": 27,
+        "name": "JIL SANDER",
+        "price": 835,
+        "description": "Logo cotton and linen tote bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/81/P00682652.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/81/P00682652_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/81/P00682652_d2.jpg"
+      },
+      {
+        "id": 28,
+        "name": "BOTTEGA VENETA",
+        "price": 2465,
+        "description": "Cassette Medium leather shoulder bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d4/P00688491.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d4/P00688491_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d4/P00688491_d2.jpg"
+      },
+      {
+        "id": 29,
+        "name": "TOM FORD",
+        "price": 1163,
+        "description": "Padded nylon clutch",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4b/P00674474.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4b/P00674474_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4b/P00674474_d2.jpg"
+      },
+      {
+        "id": 30,
+        "name": "BURBERRY",
+        "price": 1033,
+        "description": "Logo tote bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/52/P00721442.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/52/P00721442_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/52/P00721442_d2.jpg"
+      },
+      {
+        "id": 31,
+        "name": "LANVIN",
+        "price": 354,
+        "description": "In&Out printed canvas tote",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/03/P00693220.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/03/P00693220_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/03/P00693220_d2.jpg"
+      },
+      {
+        "id": 32,
+        "name": "ALEXANDER MCQUEEN",
+        "price": 1035,
+        "description": "The Grip leather tote bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ae/P00745668.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ae/P00745668_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ae/P00745668_d2.jpg"
+      },
+      {
+        "id": 33,
+        "name": "GUCCI",
+        "price": 2463,
+        "description": "GG Matelassé leather medium duffle",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bb/P00674055.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bb/P00674055_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bb/P00674055_d2.jpg"
+      },
+      {
+        "id": 34,
+        "name": "LOEWE",
+        "price": 1577,
+        "description": "T Tote Anagram leather bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5f/P00710549.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5f/P00710549_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5f/P00710549_d2.jpg"
+      },
+      {
+        "id": 35,
+        "name": "VALENTINO GARAVANI",
+        "price": 1746,
+        "description": "Roman Stud leather crossbody bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/db/P00604467.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/db/P00604467_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/db/P00604467_d2.jpg"
+      },
+      {
+        "id": 36,
+        "name": "BALENCIAGA",
+        "price": 1800,
+        "description": "Explorer leather backpack",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c7/P00726316.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c7/P00726316_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c7/P00726316_d2.jpg"
+      },
+      {
+        "id": 37,
+        "name": "TOM FORD",
+        "price": 2345,
+        "description": "East West tote bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c6/P00674473.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c6/P00674473_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c6/P00674473_d2.jpg"
+      },
+      {
+        "id": 38,
+        "name": "MAISON MARGIELA",
+        "price": 1809,
+        "description": "Leather tote",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/57/P00710622.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/57/P00710622_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/57/P00710622_d2.jpg"
+      },
+      {
+        "id": 39,
+        "name": "CHRISTIAN LOUBOUTIN",
+        "price": 664,
+        "description": "Citypouch studded leather pouch",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ce/P00680936.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ce/P00680936_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ce/P00680936_d2.jpg"
+      },
+      {
+        "id": 40,
+        "name": "MAISON MARGIELA",
+        "price": 1036,
+        "description": "Glam Slam mini leather backpack",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ad/P00710713.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ad/P00710713_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ad/P00710713_d2.jpg"
+      },
+      {
+        "id": 41,
+        "name": "LOEWE",
+        "price": 2265,
+        "description": "Puzzle Large leather shoulder bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/aa/P00697549.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/aa/P00697549_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/aa/P00697549_d2.jpg"
+      },
+      {
+        "id": 42,
+        "name": "SAINT LAURENT",
+        "price": 1364,
+        "description": "Le Monogramme 48H canvas duffel bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a2/P00709513.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a2/P00709513_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a2/P00709513_d2.jpg"
+      },
+      {
+        "id": 43,
+        "name": "BRUNELLO CUCINELLI",
+        "price": 1055,
+        "description": "Leather ankle boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/de/P00735503.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/de/P00735503_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/de/P00735503_d2.jpg"
+      },
+      {
+        "id": 44,
+        "name": "JOHN LOBB",
+        "price": 1449,
+        "description": "Alder leather boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/df/P00699527.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/df/P00699527_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/df/P00699527_d2.jpg"
+      },
+      {
+        "id": 45,
+        "name": "OUR LEGACY",
+        "price": 465,
+        "description": "Daimyo leather ankle boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8e/P00706037.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8e/P00706037_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8e/P00706037_d2.jpg"
+      },
+      {
+        "id": 46,
+        "name": "BALENCIAGA",
+        "price": 846,
+        "description": "x Adidas Triple S sneakers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00765715.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00765715_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00765715_d2.jpg"
+      },
+      {
+        "id": 47,
+        "name": "MARNI",
+        "price": 454,
+        "description": "Fussbett striped slides",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/34/P00701152.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/34/P00701152_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/34/P00701152_d2.jpg"
+      },
+      {
+        "id": 48,
+        "name": "CHRISTIAN LOUBOUTIN",
+        "price": 654,
+        "description": "Louis Junior embellished leather sneakers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f0/P00681000.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f0/P00681000_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f0/P00681000_d2.jpg"
+      },
+      {
+        "id": 49,
+        "name": "GUCCI",
+        "price": 723,
+        "description": "Tasseled patent leather loafers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/81/P00737351.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/81/P00737351_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/81/P00737351_d2.jpg"
+      },
+      {
+        "id": 50,
+        "name": "JIL SANDER",
+        "price": 415,
+        "description": "Padded leather sandals",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/92/P00682676.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/92/P00682676_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/92/P00682676_d2.jpg"
+      },
+      {
+        "id": 51,
+        "name": "ALEXANDER MCQUEEN",
+        "price": 564,
+        "description": "Thread Slick canvas ankle boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00729434.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00729434_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00729434_d2.jpg"
+      },
+      {
+        "id": 52,
+        "name": "GUCCI",
+        "price": 1502,
+        "description": "Embellished leather knee-high boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cd/P00737349.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cd/P00737349_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cd/P00737349_d2.jpg"
+      },
+      {
+        "id": 53,
+        "name": "BRUNELLO CUCINELLI",
+        "price": 634,
+        "description": "Wool knit sneakers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0d/P00735491.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0d/P00735491_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0d/P00735491_d2.jpg"
+      },
+      {
+        "id": 54,
+        "name": "SAINT LAURENT",
+        "price": 935,
+        "description": "Wyatt Harness leather ankle boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/17/P00763509.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/17/P00763509_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/17/P00763509_d2.jpg"
+      },
+      {
+        "id": 55,
+        "name": "LORO PIANA",
+        "price": 578,
+        "description": "Modular Walk sneakers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fe/P00761361.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fe/P00761361_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fe/P00761361_d2.jpg"
+      },
+      {
+        "id": 56,
+        "name": "MONCLER",
+        "price": 505,
+        "description": "Trailgrip Après quilted snow boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4d/P00709243.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4d/P00709243_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4d/P00709243_d2.jpg"
+      },
+      {
+        "id": 57,
+        "name": "MARNI",
+        "price": 585,
+        "description": "Pablo faux fur-trimmed sneakers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/28/P00710637.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/28/P00710637_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/28/P00710637_d2.jpg"
+      },
+      {
+        "id": 58,
+        "name": "CLARKS ORIGINALS",
+        "price": 185,
+        "description": "Desert Trek GTX suede loafers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ef/P00702613.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ef/P00702613_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ef/P00702613_d2.jpg"
+      },
+      {
+        "id": 59,
+        "name": "THE ROW",
+        "price": 598,
+        "description": "Owen Runner mesh and suede sneakers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1a/P00681286.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1a/P00681286_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1a/P00681286_d2.jpg"
+      },
+      {
+        "id": 60,
+        "name": "ELHANATI",
+        "price": 1355,
+        "description": "Sun Small 18kt gold necklace",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/01/P00745258.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/01/P00745258_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/01/P00745258_d2.jpg"
+      },
+      {
+        "id": 61,
+        "name": "GUCCI",
+        "price": 315,
+        "description": "GG Supreme Canvas belt",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/53/P00737675.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/53/P00737675_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/53/P00737675_d2.jpg"
+      },
+      {
+        "id": 62,
+        "name": "BALENCIAGA",
+        "price": 275,
+        "description": "Rectangular sunglasses",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/98/P00730952.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/98/P00730952_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/98/P00730952_d2.jpg"
+      },
+      {
+        "id": 63,
+        "name": "GUCCI",
+        "price": 715,
+        "description": "Engraved earcuff",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1e/P00737342.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1e/P00737342_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1e/P00737342_d2.jpg"
+      },
+      {
+        "id": 64,
+        "name": "BALENCIAGA",
+        "price": 350,
+        "description": "x Adidas logo cotton baseball cap",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/24/P00765301.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/24/P00765301_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/24/P00765301_d2.jpg"
+      },
+      {
+        "id": 65,
+        "name": "VALENTINO GARAVANI",
+        "price": 465,
+        "description": "VLogo leather belt",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f7/P00734272.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f7/P00734272_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f7/P00734272_d2.jpg"
+      },
+      {
+        "id": 66,
+        "name": "BOTTEGA VENETA",
+        "price": 724,
+        "description": "Cassette bi-fold leather wallet",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/df/P00714420.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/df/P00714420_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/df/P00714420_d2.jpg"
+      },
+      {
+        "id": 67,
+        "name": "GUCCI",
+        "price": 378,
+        "description": "Aviator sunglasses",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1e/P00731021.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1e/P00731021_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1e/P00731021_d2.jpg"
+      },
+      {
+        "id": 68,
+        "name": "JIL SANDER",
+        "price": 329,
+        "description": "Chain-link bracelet",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/12/P00682645.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/12/P00682645_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/12/P00682645_d2.jpg"
+      },
+      {
+        "id": 69,
+        "name": "THOM SWEENEY",
+        "price": 299,
+        "description": "Cashmere scarf",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c4/P00748955.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c4/P00748955_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c4/P00748955_d2.jpg"
+      },
+      {
+        "id": 70,
+        "name": "NANUSHKA",
+        "price": 248,
+        "description": "Bruna bio-plastic sunglasses",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00690709.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00690709_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b1/P00690709_d2.jpg"
+      },
+      {
+        "id": 71,
+        "name": "GUCCI",
+        "price": 169,
+        "description": "GG striped jacquard silk tie",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8d/P00737606.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8d/P00737606_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8d/P00737606_d2.jpg"
+      },
+      {
+        "id": 72,
+        "name": "CHRISTIAN LOUBOUTIN",
+        "price": 379,
+        "description": "Happy Rui CL logo leather belt",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d1/P00734042.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d1/P00734042_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d1/P00734042_d2.jpg"
+      },
+      {
+        "id": 73,
+        "name": "TOM FORD",
+        "price": 715,
+        "description": "Patent leather embossed washbag",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c4/P00674481.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c4/P00674481_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c4/P00674481_d2.jpg"
+      }
+    ],
+    "womensData": [
+      {
+        "id": 1,
+        "name": "OSCAR DE LA RENTA",
+        "price": 2105,
+        "description": "Floral cotton-blend jacket",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/52/P00739671.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/52/P00739671_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/52/P00739671_d2.jpg"
+      },
+      {
+        "id": 2,
+        "name": "SAINT LAURENT",
+        "price": 2185,
+        "description": "Loulou Small suede shoulder bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/35/P00709604.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/35/P00709604_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/35/P00709604_d2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "ROGER VIVIER",
+        "price": 925,
+        "description": "Viv’ Square suede ankle boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d4/P00717788.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d4/P00717788_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d4/P00717788_d2.jpg"
+      },
+      {
+        "id": 4,
+        "name": "OSCAR DE LA RENTA",
+        "price": 1135,
+        "description": "Floral cotton-blend pencil skirt",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cb/P00739672.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cb/P00739672_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cb/P00739672_d2.jpg"
+      },
+      {
+        "id": 5,
+        "name": "CHLOÉ",
+        "price": 1505,
+        "description": "Ruffle-trimmed virgin wool midi dress",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e0/P00731129.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e0/P00731129_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e0/P00731129_d2.jpg"
+      },
+      {
+        "id": 6,
+        "name": "CHLOÉ",
+        "price": 1589,
+        "description": "Mony Medium leather tote bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/07/P00765528.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/07/P00765528_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/07/P00765528_d2.jpg"
+      },
+      {
+        "id": 7,
+        "name": "BOTTEGA VENETA",
+        "price": 265,
+        "description": "Cat-eye sunglasses",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/dd/P00451850.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/dd/P00451850_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/dd/P00451850_d2.jpg"
+      },
+      {
+        "id": 8,
+        "name": "GIVENCHY",
+        "price": 3185,
+        "description": "Leopard-print jacquard wool coat",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d0/P00707950.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d0/P00707950_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d0/P00707950_d2.jpg"
+      },
+      {
+        "id": 9,
+        "name": "DOLCE&GABBANA",
+        "price": 1245,
+        "description": "Zebra-print minidress",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9c/P00705214.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9c/P00705214_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9c/P00705214_d2.jpg"
+      },
+      {
+        "id": 10,
+        "name": "ROGER VIVIER",
+        "price": 609,
+        "description": "I Love Vivier suede pumps",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/2a/P00718108.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/2a/P00718108_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/2a/P00718108_d2.jpg"
+      },
+      {
+        "id": 11,
+        "name": "VALENTINO GARAVANI",
+        "price": 825,
+        "description": "One Stud leather belt",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fd/P00724145.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fd/P00724145_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fd/P00724145_d2.jpg"
+      },
+      {
+        "id": 12,
+        "name": "CHLOÉ",
+        "price": 2315,
+        "description": "Double-breasted wool-blend blazer",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/27/P00731126.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/27/P00731126_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/27/P00731126_d2.jpg"
+      },
+      {
+        "id": 13,
+        "name": "OSCAR DE LA RENTA",
+        "price": 1225,
+        "description": "Printed straight cropped poplin pants",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/92/P00739625.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/92/P00739625_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/92/P00739625_d2.jpg"
+      },
+      {
+        "id": 14,
+        "name": "VALENTINO GARAVANI",
+        "price": 585,
+        "description": "Tan-Go patent leather pumps",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/94/P00694118.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/94/P00694118_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/94/P00694118_d2.jpg"
+      },
+      {
+        "id": 15,
+        "name": "RUSLAN BAGINSKIY",
+        "price": 159,
+        "description": "Ribbed-knit wool-blend beanie",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/22/P00707335.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/22/P00707335_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/22/P00707335_d2.jpg"
+      },
+      {
+        "id": 16,
+        "name": "CHLOÉ",
+        "price": 1589,
+        "description": "Wool-blend coat",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/36/P00761808.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/36/P00761808_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/36/P00761808_d2.jpg"
+      },
+      {
+        "id": 17,
+        "name": "CITIZENS OF HUMANITY",
+        "price": 255,
+        "description": "Charlotte high-rise straight jeans",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/74/P00748031.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/74/P00748031_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/74/P00748031_d2.jpg"
+      },
+      {
+        "id": 18,
+        "name": "ALEXANDER MCQUEEN",
+        "price": 359,
+        "description": "Leather sneakers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9e/P00639904.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9e/P00639904_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9e/P00639904_d2.jpg"
+      },
+      {
+        "id": 19,
+        "name": "JIL SANDER",
+        "price": 279,
+        "description": "Hoop earrings",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/45/P00697663.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/45/P00697663_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/45/P00697663_d2.jpg"
+      },
+      {
+        "id": 20,
+        "name": "COPERNI",
+        "price": 549,
+        "description": "Ruffled silk-blend blouse",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4c/P00719821.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4c/P00719821_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4c/P00719821_d2.jpg"
+      },
+      {
+        "id": 21,
+        "name": "JIL SANDER",
+        "price": 919,
+        "description": "Leather ankle boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d5/P00717294.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d5/P00717294_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d5/P00717294_d2.jpg"
+      },
+      {
+        "id": 22,
+        "name": "COPERNI",
+        "price": 295,
+        "description": "Wool-blend miniskirt",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c3/P00719823.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c3/P00719823_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c3/P00719823_d2.jpg"
+      },
+      {
+        "id": 23,
+        "name": "MISSONI",
+        "price": 1169,
+        "description": "Metallic lace maxi dress",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8a/P00727715.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8a/P00727715_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8a/P00727715_d2.jpg"
+      },
+      {
+        "id": 24,
+        "name": "ALAÏA",
+        "price": 1515,
+        "description": "Le Papa Small leather crossbody bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9b/P00688204.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9b/P00688204_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9b/P00688204_d2.jpg"
+      },
+      {
+        "id": 25,
+        "name": "BALENCIAGA",
+        "price": 1550,
+        "description": "Hourglass leather shoulder bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4b/P00532679.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4b/P00532679_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4b/P00532679_d2.jpg"
+      },
+      {
+        "id": 26,
+        "name": "OSCAR DE LA RENTA",
+        "price": 3405,
+        "description": "Cape-detail silk-blend gown",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3f/P00739738.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3f/P00739738_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3f/P00739738_d2.jpg"
+      },
+      {
+        "id": 27,
+        "name": "BALMAIN",
+        "price": 1339,
+        "description": "Structured knitted jacket",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/80/P00701484.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/80/P00701484_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/80/P00701484_d2.jpg"
+      },
+      {
+        "id": 28,
+        "name": "ALEXANDER MCQUEEN",
+        "price": 329,
+        "description": "Skull faux pearl-embellished necklace",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/02/P00573898.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/02/P00573898_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/02/P00573898_d2.jpg"
+      },
+      {
+        "id": 29,
+        "name": "BALMAIN",
+        "price": 2345,
+        "description": "Moneta leather over-the-knee boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ad/P00722859.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ad/P00722859_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ad/P00722859_d2.jpg"
+      },
+      {
+        "id": 30,
+        "name": "SAINT LAURENT",
+        "price": 499,
+        "description": "High-rise skinny jeans",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/64/P00669058.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/64/P00669058_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/64/P00669058_d2.jpg"
+      },
+      {
+        "id": 31,
+        "name": "ISABEL MARANT",
+        "price": 1005,
+        "description": "Lindley cotton-blend ribbed-knit jacket",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/44/P00720209.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/44/P00720209_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/44/P00720209_d2.jpg"
+      },
+      {
+        "id": 32,
+        "name": "BOTTEGA VENETA",
+        "price": 1685,
+        "description": "Cassette Mini leather crossbody bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d0/P00735285.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d0/P00735285_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d0/P00735285_d2.jpg"
+      },
+      {
+        "id": 33,
+        "name": "BOTTEGA VENETA",
+        "price": 660,
+        "description": "Tire leather ankle boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3d/P00556117.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3d/P00556117_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3d/P00556117_d2.jpg"
+      },
+      {
+        "id": 36,
+        "name": "SAINT LAURENT",
+        "price": 1505,
+        "description": "Le 5 à 7 Small leather shoulder bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a1/P00737154.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a1/P00737154_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a1/P00737154_d2.jpg"
+      },
+      {
+        "id": 37,
+        "name": "JIL SANDER",
+        "price": 545,
+        "description": "Tripon leather sandals",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/06/P00717303.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/06/P00717303_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/06/P00717303_d2.jpg"
+      },
+      {
+        "id": 40,
+        "name": "GUCCI",
+        "price": 549,
+        "description": "Interlocking G 18kt gold earrings",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a8/P00591925.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a8/P00591925_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a8/P00591925_d2.jpg"
+      },
+      {
+        "id": 41,
+        "name": "KHAITE",
+        "price": 1135,
+        "description": "Wythe over-the-knee patent leather boots",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/58/P00739774.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/58/P00739774_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/58/P00739774_d2.jpg"
+      },
+      {
+        "id": 42,
+        "name": "CITIZENS OF HUMANITY",
+        "price": 339,
+        "description": "Faux leather miniskirt",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f6/P00748047.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f6/P00748047_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f6/P00748047_d2.jpg"
+      },
+      {
+        "id": 44,
+        "name": "MARIA TASH",
+        "price": 2585,
+        "description": "Invisible Set Diamond Star 18kt white gold necklace with diamonds",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b7/P00706133.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b7/P00706133_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b7/P00706133_d2.jpg"
+      },
+      {
+        "id": 45,
+        "name": "SPINELLI KILCOLLIN",
+        "price": 1735,
+        "description": "Gemini sterling silver ring with white diamonds",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4e/P00715921.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4e/P00715921_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4e/P00715921_d2.jpg"
+      },
+      {
+        "id": 47,
+        "name": "ALIITA",
+        "price": 245,
+        "description": "Logo leather jewelry pouch",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/85/P00751827.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/85/P00751827_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/85/P00751827_d2.jpg"
+      },
+      {
+        "id": 49,
+        "name": "MARIA TASH",
+        "price": 1665,
+        "description": "Invisible Set Diamond Star Stud 18kt white gold single earring with diamonds",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/80/P00706131.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/80/P00706131_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/80/P00706131_d2.jpg"
+      },
+      {
+        "id": 50,
+        "name": "ALIITA",
+        "price": 245,
+        "description": "Logo leather jewelry pouch",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e4/P00751826.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e4/P00751826_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e4/P00751826_d2.jpg"
+      },
+      {
+        "id": 52,
+        "name": "SAINT LAURENT",
+        "price": 419,
+        "description": "Cassandre leather wallet",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/dd/P00709743.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/dd/P00709743_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/dd/P00709743_d2.jpg"
+      },
+      {
+        "id": 53,
+        "name": "ANCIENT GREEK SANDALS",
+        "price": 156,
+        "description": "Apli Eleftheria leather sandals",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bd/P00749610.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bd/P00749610_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bd/P00749610_d2.jpg"
+      },
+      {
+        "id": 55,
+        "name": "GANNI",
+        "price": 275,
+        "description": "Ruched velvet minidress",
+        "type": "cloths",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c9/P00749655.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c9/P00749655_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c9/P00749655_d2.jpg"
+      },
+      {
+        "id": 56,
+        "name": "A.P.C.",
+        "price": 165,
+        "description": "Bourse Ninon Small crossbody bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fa/P00761056.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fa/P00761056_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fa/P00761056_d2.jpg"
+      },
+      {
+        "id": 57,
+        "name": "SUZANNE KALAN",
+        "price": 4775,
+        "description": "18kt gold ring with diamonds and emeralds",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/32/P00716058.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/32/P00716058_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/32/P00716058_d2.jpg"
+      },
+      {
+        "id": 59,
+        "name": "SUZANNE KALAN",
+        "price": 1935,
+        "description": "Fireworks 18kt gold ring with diamonds and sapphires",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f0/P00486871.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f0/P00486871_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f0/P00486871_d2.jpg"
+      },
+      {
+        "id": 60,
+        "name": "BOTTEGA VENETA",
+        "price": 1255,
+        "description": "Cassette leather crossbody bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fb/P00502410.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fb/P00502410_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fb/P00502410_d2.jpg"
+      },
+      {
+        "id": 61,
+        "name": "GUCCI",
+        "price": 565,
+        "description": "Princetown leather slippers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/5a/P00220082.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/5a/P00220082_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/5a/P00220082_d2.jpg"
+      },
+      {
+        "id": 62,
+        "name": "GUCCI",
+        "price": 609,
+        "description": "Horsebit leather loafers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/f1/P00365080.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/f1/P00365080_b2",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/f1/P00365d80_d2.jpg"
+      },
+      {
+        "id": 63,
+        "name": "ALAÏA",
+        "price": 619,
+        "description": "Leather slippers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/8f/P00526413.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/8f/P00526413_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/8f/P00526413_d2.jpg"
+      },
+      {
+        "id": 64,
+        "name": "VALENTINO GARAVANI",
+        "price": 415,
+        "description": "Valentino Garavani Rockstud patent leather slippers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/85/P00383633.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/85/P00383633_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/85/P00383633_d2.jpg"
+      },
+      {
+        "id": 65,
+        "name": "LOEWE",
+        "price": 620,
+        "description": "Gate leather slippers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/72/P00487688.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/72/P00487688_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/72/P00487688_d2.jpg"
+      },
+      {
+        "id": 66,
+        "name": "BALENCIAGA",
+        "price": 595,
+        "description": "Cosy BB patent leather slippers",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/f6/P00534159.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/f6/P00534159_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/f6/P00534159_d2.jpg"
+      },
+      {
+        "id": 67,
+        "name": "BOTTEGA VENETA",
+        "price": 925,
+        "description": "Madame embellished leather pumps",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7d/P00698568.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7d/P00698568_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7d/P00698568_d2.jpg"
+      },
+      {
+        "id": 68,
+        "name": "JIL SANDER",
+        "price": 545,
+        "description": "Tripon leather sandals",
+        "type": "shoes",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/06/P00717303.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/06/P00717303_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/06/P00717303_d2.jpg"
+      },
+      {
+        "id": 69,
+        "name": "DOLCE&GABBANA",
+        "price": 1245,
+        "description": "Sicily Small leather shoulder bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/8d/P00693958.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/8d/P00693958_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/8d/P00693958_d2.jpg"
+      },
+      {
+        "id": 70,
+        "name": "GUCCI",
+        "price": 749,
+        "description": "Dionysus GG Supreme Super Mini crossbody bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/08/P00273325.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/08/P00273325_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/08/P00273325_d2.jpg"
+      },
+      {
+        "id": 71,
+        "name": "LOEWE",
+        "price": 445,
+        "description": "Medium leather-trimmed basket tote",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/f9/P00302459.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/f9/P00302459_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/f9/P00302459_d2.jpg"
+      },
+      {
+        "id": 72,
+        "name": "SAINT LAURENT",
+        "price": 830,
+        "description": "Lou Camera leather crossbody bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/06/P00403667.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/06/P00403667_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/06/P00403667_d2.jpg"
+      },
+      {
+        "id": 73,
+        "name": "THE ROW",
+        "price": 2809,
+        "description": "Leo Large leather bucket bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/c3/P00714582.jpg",
+        "hoverImg1": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/c3/P00714582_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/c3/P00714582_d2.jpg"
+      },
+      {
+        "id": 74,
+        "name": "VALENTINO GARAVANI",
+        "price": 2960,
+        "description": "One Stud Large leather shoulder bag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/85/P00724032.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/85/P00724032_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/85/P00724032_d2.jpg"
+      },
+      {
+        "id": 75,
+        "name": "JIL SANDER",
+        "price": 1425,
+        "description": "Small leather handbag",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/01/P00715440.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/01/P00715440_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/01/P00715440_d2.jpg"
+      },
+      {
+        "id": 76,
+        "name": "ALAÏA",
+        "price": 2019,
+        "description": "Hinge Medium patent leather tote",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00688195.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00688195_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00688195_d2.jpg"
+      },
+      {
+        "id": 77,
+        "name": "CHLOÉ",
+        "price": 1235,
+        "description": "Marcie Small leather tote",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b5/P00493129.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b5/P00493129_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b5/P00493129_d2.jpg"
+      },
+      {
+        "id": 78,
+        "name": "GIVENCHY",
+        "price": 1585,
+        "description": "Antigona Mini Stretch leather tote",
+        "type": "bags",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00761183.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00761183_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/51/P00761183_d2.jpg"
+      },
+      {
+        "id": 79,
+        "name": "VALENTINO",
+        "price": 415,
+        "description": "Rockstud earrings",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/50/P00724108.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/50/P00724108_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/50/P00724108_d2.jpg"
+      },
+      {
+        "id": 80,
+        "name": "VALENTINO",
+        "price": 415,
+        "description": "Rockstud bangle",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/dc/P00705580.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/dc/P00705580_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/dc/P00705580_d2.jpg"
+      },
+      {
+        "id": 81,
+        "name": "MAX MARA",
+        "price": 265,
+        "description": "Lord chain necklace",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/47/P00762175.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/47/P00762175_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/47/P00762175_d2.jpg"
+      },
+      {
+        "id": 82,
+        "name": "SUZANNE KALAN",
+        "price": 1055,
+        "description": "Kira 14kt gold drop earrings with white topaz",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c0/P00749638.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c0/P00749638_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c0/P00749638_d2.jpg"
+      },
+      {
+        "id": 83,
+        "name": "SUZANNE KALAN",
+        "price": 395,
+        "description": "Ayda 14kt gold stud earrings with topaz",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9a/P00749646.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9a/P00749646_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9a/P00749646_d2.jpg"
+      },
+      {
+        "id": 84,
+        "name": "ZIMMERMANN",
+        "price": 215,
+        "description": "Nautical Drop gold-plated earrings",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8e/P00761169.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8e/P00761169_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8e/P00761169_d2.jpg"
+      },
+      {
+        "id": 85,
+        "name": "ISABEL MARANT",
+        "price": 165,
+        "description": "Links chain bracelet",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/55/P00584819.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/55/P00584819_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/55/P00584819_d2.jpg"
+      },
+      {
+        "id": 86,
+        "name": "EÉRA",
+        "price": 1609,
+        "description": "Mini Dado 18kt yellow gold single earring with diamonds",
+        "type": "jewelry",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00751889.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00751889_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00751889_d2.jpg"
+      },
+      {
+        "id": 88,
+        "name": "LORO PIANA",
+        "price": 295,
+        "description": "Striped cashmere beanie",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/60/P00744701.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/60/P00744701_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/60/P00744701_d2.jpg"
+      },
+      {
+        "id": 89,
+        "name": "BOTTEGA VENETA",
+        "price": 255,
+        "description": "Classic aviator sunglasses",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/19/P00750071.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/19/P00750071_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/19/P00750071_d2.jpg"
+      },
+      {
+        "id": 90,
+        "name": "BURBERRY",
+        "price": 465,
+        "description": "Leather belt",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f6/P00758032.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f6/P00758032_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f6/P00758032_d2.jpg"
+      },
+      {
+        "id": 91,
+        "name": "JACQUEMUS",
+        "price": 96,
+        "description": "Frayed cotton bucket hat",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/59/P00754284.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/59/P00754284_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/59/P00754284_d2.jpg"
+      },
+      {
+        "id": 92,
+        "name": "GUCCI",
+        "price": 352,
+        "description": "GG Marmont reversible leather belt",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/2e/P00752136.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/2e/P00752136_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/2e/P00752136_d2.jpg"
+      },
+      {
+        "id": 93,
+        "name": "LORO PIANA",
+        "price": 355,
+        "description": "Grande Unita cashmere scarf",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cd/P00361196.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cd/P00361196_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/cd/P00361196_d2.jpg"
+      },
+      {
+        "id": 94,
+        "name": "KHAITE",
+        "price": 659,
+        "description": "Dante cashmere scarf",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5c/P00763618.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5c/P00763618_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5c/P00763618_d2.jpg"
+      },
+      {
+        "id": 95,
+        "name": "VERSACE",
+        "price": 295,
+        "description": "Medusa Biggie rectangular sunglasses",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8c/P00706754.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8c/P00706754_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8c/P00706754_d2.jpg"
+      },
+      {
+        "id": 96,
+        "name": "RUSLAN BAGINSKIY",
+        "price": 165,
+        "description": "Ribbed-knit wool-blend beanie",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/22/P00707335.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/22/P00707335_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/22/P00707335_d2.jpg"
+      },
+      {
+        "id": 97,
+        "name": "COURRÈGES",
+        "price": 245,
+        "description": "Oval acetate sunglasses",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00748725.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00748725_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00748725_d2.jpg"
+      },
+      {
+        "id": 98,
+        "name": "VALENTINO GARAVANI",
+        "price": 1014,
+        "description": "Roman Stud leather shoulder bag",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4b/P00723982.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4b/P00723982_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4b/P00723982_d2.jpg"
+      },
+      {
+        "id": 99,
+        "name": "JENNIFER BEHR",
+        "price": 286,
+        "description": "Jessa embellished set of 2 bobby pins",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8b/P00742851.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8b/P00742851_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8b/P00742851_d2.jpg"
+      },
+      {
+        "id": 100,
+        "name": "AUTLZARA",
+        "price": 455,
+        "description": "Enoki leather belt",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/58/P00749035.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/58/P00749035_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/58/P00749035_d2.jpg"
+      },
+      {
+        "id": 101,
+        "name": "BALENCIAGA",
+        "price": 263,
+        "description": "BB leather belt",
+        "type": "accessories",
+        "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/13/P00451033.jpg",
+        "hoverImg1": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/13/P00451033_b2.jpg",
+        "hoverImg2": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/13/P00451033_d2.jpg"
+      }
+    ],
+    "adminData":[
+      {
+        "id":1,
+        "name":"Gourav Bundiwal",
+        "username":"gouravB",
+        "password":"@gourav123"
+      },
+      {
+        "id":2,
+        "name":"Kaushik Kumar",
+        "username":"kaushikK",
+        "password":"@kaushik123"
+      },
+      {
+        "id":3,
+        "name":"Sayyed Sharuk",
+        "username":"sharukS",
+        "password":"@sharuk123"
+      }
+    ],
+    "loginData":[
+      {
+        "id":1,
+        "name":"Gourav Bundiwal",
+        "username":"gouravB",
+        "password":"@gourav123"
+      },
+      {
+        "id":2,
+        "name":"Kaushik Kumar",
+        "username":"kaushikK",
+        "password":"@kaushik123"
+      },
+      {
+        "id":3,
+        "name":"Sayyed Sharuk",
+        "username":"sharukS",
+        "password":"@sharuk123"
+      }
+    ],
+    "register":[
+      {
+        "id":1,
+        "name":"Gourav Bundiwal",
+        "username":"gouravB",
+        "password":"@gourav123",
+        "mobile":"7735647263",
+        "email":"gourav@mfc.com"
+      },
+      {
+        "id":2,
+        "name":"Kaushik Kumar",
+        "username":"kaushikK",
+        "password":"@kaushik123",
+        "mobile":"7364937465",
+        "email":"kaushik@mfc.com"
+      },
+      {
+        "id":3,
+        "name":"Sayyed Sharuk",
+        "username":"sharukS",
+        "password":"@sharuk123",
+        "mobile":"7936582534",
+        "email":"sharuk@mfc.com"
+      }
+    ]
+  }

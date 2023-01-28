@@ -1,0 +1,26 @@
+{
+  "name": "fashioncart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAUSH101/fashioncart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KAUSH101/fashioncart/issues"
+  },
+  "homepage": "https://github.com/KAUSH101/fashioncart#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json": "^11.0.0",
+    "json-server": "^0.17.1",
+    "serve": "^14.2.0"
+  }
+}
